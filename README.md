@@ -1,3 +1,5 @@
+proyek UTS matkul pengolahan citra digital
+
 # Sistem Pengolahan Citra: Kontras, Tepi, dan Segmentasi
 
 Repositori ini berisi implementasi program pengolahan citra digital berbasis Python. Program ini mengaplikasikan tiga teknik utama pengolahan spasial untuk mengekstraksi dan memperjelas informasi visual dari sebuah gambar mentah.
@@ -27,13 +29,13 @@ Opsi 1: Melalui Terminal atau Command Prompt
 
 Opsi 2: Melalui Batch File (Khusus Pengguna Windows)
 1. Pastikan Anda berada di dalam folder repositori.
-2. Klik ganda (double-click) pada file jalankan_program.bat.
+2. Klik ganda (double-click) pada file run.bat.
 3. Program akan otomatis dieksekusi dan meminta Anda memilih gambar.
 
 ## Struktur File
 
 - main.py : Kode sumber utama yang berisi logika pengolahan citra dan visualisasi.
-- jalankan_program.bat : Script eksekusi cepat untuk sistem operasi Windows.
+- run.bat : Script eksekusi cepat untuk sistem operasi Windows.
 - README.md : Dokumentasi lengkap mengenai proyek ini.
 
 ## Artikel Terkait
