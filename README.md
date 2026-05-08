@@ -1,4 +1,4 @@
-proyek UTS matkul pengolahan citra digital
+PROYEK UTS MATKUL PENGOLAHAN CITRA DIGITAL
 
 # Sistem Pengolahan Citra: Kontras, Tepi, dan Segmentasi
 
